@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="250px" align="right">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="200px" align="right">
 
 Here are some ideas to get you started:
 
