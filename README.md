@@ -50,9 +50,7 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&hide=php&theme=tokyonight" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&layout=compact&theme=vision-friendly-dark" width="300" height="250" align="right">
 </div>
 
 
