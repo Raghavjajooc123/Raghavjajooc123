@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="250px" align="right">
 
 Here are some ideas to get you started:
 
@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <!--JQuery-->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank"> <img src="https://github.com/iamthedawn/content/blob/main/icons8-jquery-50.png?raw=true" alt="jQuery" width="40" height="40"/> </a>
-<!--GIT-->
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 
