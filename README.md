@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Raghavjajooc123&countColor=%23263759)
 
-[![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--STATS-->
 <h3 align="left">Languages and Tools:</h3>             
