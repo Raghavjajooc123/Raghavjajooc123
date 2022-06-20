@@ -45,26 +45,22 @@ Here are some ideas to get you started:
 ## :trophy: My Github Stats:
 
 <div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavjajooc123&theme=monokai)
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghavjajooc123&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavjajooc123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghavjajooc123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghavjajooc123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghavjajooc123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghavjajooc123&theme=github_dark&utcOffset=8)
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghavjajooc123&theme=monokai)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghavjajooc123&theme=monokai)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghavjajooc123&theme=monokai&utcOffset=8)
-
  </div>
 <!--Contribution Graph-->
-<div width="50" height="50" align="center">
+<div width="50" height="50" align="left">
 
 [![Raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raghavjajooc123&theme=xcode)](https://github.com/Raghavjajooc123/github-readme-activity-graph)
 
  
  <!--Total Contributions-->
- <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123"/></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123"/></p>
  
 </div>
 
