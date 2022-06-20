@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="300px" align="right">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development, Coding and Machine Learning
