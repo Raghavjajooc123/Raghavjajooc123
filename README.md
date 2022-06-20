@@ -56,10 +56,11 @@ Here are some ideas to get you started:
 </div>
 
 
-
 <!--Contribution Graph-->
 <div width="50" height="50" align="center">
+
 [![Raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raghavjajooc123&theme=xcode)](https://github.com/Raghavjajooc123/github-readme-activity-graph)
+
 </div>
 
                    
