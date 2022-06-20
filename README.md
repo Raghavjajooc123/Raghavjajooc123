@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Coding and Web development
 - 📫 How to reach me: raghavjajooc123@gmail.com
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Raghavjajooc123&countColor=%23263759)
-
 
 <!--STATS-->
 <h3 align="left">Languages and Tools:</h3>             
@@ -50,6 +48,12 @@ Here are some ideas to get you started:
 [![Raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raghavjajooc123&theme=xcode)](https://github.com/Raghavjajooc123/github-readme-activity-graph)
 
 </div>
+
+<span  align="left">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor%20(1).gif?raw=true" width="70px" />
+<br>                                                                                                
+<img src="https://komarev.com/ghpvc/?username=Raghavjajooc123&label=Profile%20views&color=grey&style=plastic&label=PROFILE+VIEWS" alt="iamthedawn"  /> 
+</span>
 
                    
 <!--Total Contributions-->
