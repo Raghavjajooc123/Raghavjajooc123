@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <!--CPP-->
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<!--GIT-->
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<!-- Java -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 <!--HTML-->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!--CSS-->
@@ -30,18 +32,29 @@ Here are some ideas to get you started:
 <!--JS-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <!-- NODEJS -->
-<a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<!-- MongoDB -->
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <!--BOOTSTRAP-->   
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <!--JQuery-->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/jQuery" target="_blank"> <img src="https://github.com/iamthedawn/content/blob/main/icons8-jquery-50.png?raw=true" alt="jQuery" width="40" height="40"/> </a>
+<!--GIT-->
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-## Github Stats
-<!--Stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&show_icons=true&theme=vision-friendly-dark" alt="PowerCoder | Stats" align="left" >
- 
- <!--Languages Used-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&layout=compact&theme=vision-friendly-dark" width="300" height="250" align="right">
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&hide=php&theme=tokyonight" />
+</a>
+</div>
+
 
 
 <!--Contribution Graph-->
@@ -51,4 +64,4 @@ Here are some ideas to get you started:
 
                    
 <!--Total Contributions-->
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123"/></p>
