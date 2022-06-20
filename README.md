@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## :trophy: My Github Stats:
 
-<div>
+<div align="center">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavjajooc123&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghavjajooc123&theme=github_dark)
