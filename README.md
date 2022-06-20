@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" width="30vw" align="right">
+<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" align="right">
 
 Here are some ideas to get you started:
 
@@ -45,20 +45,29 @@ Here are some ideas to get you started:
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Raghavjajooc123&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavjajooc123&layout=compact&theme=vision-friendly-dark" width="300" height="250" align="right">
-</div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raghavjajooc123&theme=monokai)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raghavjajooc123&theme=monokai)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raghavjajooc123&theme=monokai)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raghavjajooc123&theme=monokai)
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raghavjajooc123&theme=monokai&utcOffset=8)
 
+ </div>
 <!--Contribution Graph-->
 <div width="50" height="50" align="center">
 
 [![Raghav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raghavjajooc123&theme=xcode)](https://github.com/Raghavjajooc123/github-readme-activity-graph)
 
+ 
+ <!--Total Contributions-->
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123"/></p>
+ 
 </div>
 
                    
-<!--Total Contributions-->
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghavjajooc123&theme=vision-friendly-dark" alt="Raghavjajooc123"/></p>
+
+
