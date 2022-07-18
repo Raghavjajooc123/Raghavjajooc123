@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Science Engineering
 - 👯 I’m looking to collaborate on machine learning Projects
 - 💬 Ask me about Coding and Web development
-- 📫 How to reach me: raghavjajooc123@gmail.com
+- 📫 How to reach me: raghavjajooc123@gmail.com.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=krsambhav&countColor=%23263759)
 
