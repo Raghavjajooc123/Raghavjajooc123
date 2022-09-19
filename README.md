@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/iamthedawn/content/blob/main/tenor.gif?raw=true" align="right">
+<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif?raw=true" width = 500 align="right">
 
 Here are some ideas to get you started:
 
